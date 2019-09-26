@@ -2,6 +2,7 @@
 
 Use Anaconda to setup an virtula env
 1. Install Anaconda3
+
 默认添加路径到环境变量，安装成功后有：
 Anaconda Navigator，提供图形界面操作，管理环境和包；
 Anaconda Prompt，提供命令行操作，管理环境和包，还可执行脚本；
