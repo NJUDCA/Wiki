@@ -1,6 +1,6 @@
 # Setup environment for NLP models on WinOS
 
-Use Anaconda to setup an virtula env
+## Use Anaconda to setup an virtula env
 1. Install Anaconda3
 
 默认添加路径到环境变量，安装成功后有：
@@ -21,3 +21,8 @@ conda install tensorflow, numpy
 ```
 
 4. Use the virtual env as python project interpreter
+
+
+## IDE
+1. PyCharm Edu
+2. VS code + Python插件
