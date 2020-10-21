@@ -9,7 +9,7 @@ Anaconda Prompt，提供命令行操作，管理环境和包，还可执行脚�
 
 2. Create new env
 ```bash
-conda create -n <env_name> python=3.5
+conda create -n <env_name> python=3.6
 ```
 
 3. Activate and install packages
@@ -17,7 +17,7 @@ conda create -n <env_name> python=3.5
 如果conda源未提供相应的包，则通过pip安装
 ```bash
 soruce activate <env_name>
-conda install tensorflow, numpy
+conda install tensorflow
 ```
 
 4. Use the virtual env as python project interpreter
